@@ -27,19 +27,19 @@ This project explores how touchless, natural interaction can serve as a digital 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/d4min/aircanvas.git
-   cd aircanvas
+   git clone https://github.com/Programiz-007/SnapSense_Computer_Vision.git
+   cd Snapsense
    ```
 
 2. Create a virtual environment (recommended):
    ```
    # Using conda
-   conda create -n aircanvas python=3.8
-   conda activate aircanvas
+   conda create -n snapsense python=3.8
+   conda activate snapsense
    
    # Or using venv
-   python -m venv aircanvas
-   source aircanvas/bin/activate  # On Windows: aircanvas\Scripts\activate
+   python -m venv snapsense
+   source snapsense/bin/activate  # On Windows: snapsense\Scripts\activate
    ```
 
 3. Install the required packages:
