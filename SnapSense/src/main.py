@@ -219,7 +219,7 @@ def main():
             cv2.putText(frame, f"Tool: {canvas.current_tool}", (10, CAMERA_HEIGHT - 30),
                        cv2.FONT_HERSHEY_SIMPLEX, 0.6, (255, 255, 255), 2)
 
-        cv2.imshow('AirCanvas', frame)
+        cv2.imshow('Snapsense', frame)
 
         if cv2.waitKey(1) & 0xFF == ord('q'):
             break
