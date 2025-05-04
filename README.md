@@ -60,7 +60,7 @@ Snapsense recognises different hand gestures to control drawing functions:
 
 Make a pinch gesture with your index finger and thumb to draw. Move your hand while maintaining the pinch to create lines and shapes.
 
-![Demonstration of Pinch Gesture](images/pinch.png)
+![Demonstration of Pinch Gesture](images/draw.png)
 
 ### Select Gesture
 
